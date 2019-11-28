@@ -8,8 +8,8 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "FXCM Demp App",
-          "description": "A Template for a custom Journey Builder activity",
+            "name": "FXCM Demo App",
+          "description": "A Template for a custom Journey Builder activity for FXCM",
           "step1Label": "Configure Activity"
         }
     },
